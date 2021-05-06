@@ -1,6 +1,0 @@
-module Pods_CalisTimer_CalisTimerTests {
-  umbrella header "Pods-CalisTimer-CalisTimerTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
