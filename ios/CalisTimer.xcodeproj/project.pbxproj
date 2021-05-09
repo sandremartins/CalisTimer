@@ -11,9 +11,17 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		467AEE4988154810BFC553C5 /* Ubuntu-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A9FA9B0B8AFA493C98370832 /* Ubuntu-Italic.ttf */; };
+		47EDCA193FFF4616B2751438 /* Ubuntu-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7F37C0C11CFD4F309EC686A8 /* Ubuntu-MediumItalic.ttf */; };
+		49179F493A734497A2D33194 /* Ubuntu-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9020AB6F072C4C31865B93F8 /* Ubuntu-LightItalic.ttf */; };
+		56AE0D6E9FB0489DB2BF59C9 /* Ubuntu-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 42E0267EA96E444F90956D28 /* Ubuntu-Medium.ttf */; };
+		6475C74BEB4F411BA02F7572 /* Ubuntu-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CC94488AEF1A44A5ADC4B4F4 /* Ubuntu-Regular.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		9BDC47754A8D4EEABBCAF1CA /* Ubuntu-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4F7F1B3E79EE4ED4B080E5C7 /* Ubuntu-BoldItalic.ttf */; };
+		C28D9956C147459786D966DC /* Ubuntu-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 39638F6AAA134C149699E334 /* Ubuntu-Bold.ttf */; };
 		D7A9CA6547BC7030CF939A07 /* libPods-CalisTimer.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D67472783D5BBDB535072483 /* libPods-CalisTimer.a */; };
 		ED92CD0103FCB3A8E5A6A0A6 /* libPods-CalisTimer-CalisTimerTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 429ED0E2F18497893C8C6910 /* libPods-CalisTimer-CalisTimerTests.a */; };
+		F07CA3E30C6D47ADBB4C18ED /* Ubuntu-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C977D8C0F6634443A6E04D2E /* Ubuntu-Light.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,9 +44,17 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = CalisTimer/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = CalisTimer/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = CalisTimer/main.m; sourceTree = "<group>"; };
+		39638F6AAA134C149699E334 /* Ubuntu-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-Bold.ttf"; path = "../assets/fonts/Ubuntu-Bold.ttf"; sourceTree = "<group>"; };
 		429ED0E2F18497893C8C6910 /* libPods-CalisTimer-CalisTimerTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CalisTimer-CalisTimerTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		42E0267EA96E444F90956D28 /* Ubuntu-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-Medium.ttf"; path = "../assets/fonts/Ubuntu-Medium.ttf"; sourceTree = "<group>"; };
+		4F7F1B3E79EE4ED4B080E5C7 /* Ubuntu-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-BoldItalic.ttf"; path = "../assets/fonts/Ubuntu-BoldItalic.ttf"; sourceTree = "<group>"; };
 		76C1B52A8988FE11ACB58E3F /* Pods-CalisTimer-CalisTimerTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CalisTimer-CalisTimerTests.debug.xcconfig"; path = "Target Support Files/Pods-CalisTimer-CalisTimerTests/Pods-CalisTimer-CalisTimerTests.debug.xcconfig"; sourceTree = "<group>"; };
+		7F37C0C11CFD4F309EC686A8 /* Ubuntu-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-MediumItalic.ttf"; path = "../assets/fonts/Ubuntu-MediumItalic.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = CalisTimer/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		9020AB6F072C4C31865B93F8 /* Ubuntu-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-LightItalic.ttf"; path = "../assets/fonts/Ubuntu-LightItalic.ttf"; sourceTree = "<group>"; };
+		A9FA9B0B8AFA493C98370832 /* Ubuntu-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-Italic.ttf"; path = "../assets/fonts/Ubuntu-Italic.ttf"; sourceTree = "<group>"; };
+		C977D8C0F6634443A6E04D2E /* Ubuntu-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-Light.ttf"; path = "../assets/fonts/Ubuntu-Light.ttf"; sourceTree = "<group>"; };
+		CC94488AEF1A44A5ADC4B4F4 /* Ubuntu-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-Regular.ttf"; path = "../assets/fonts/Ubuntu-Regular.ttf"; sourceTree = "<group>"; };
 		D67472783D5BBDB535072483 /* libPods-CalisTimer.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CalisTimer.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D731ACD8A07D66D66A9A6E55 /* Pods-CalisTimer.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CalisTimer.debug.xcconfig"; path = "Target Support Files/Pods-CalisTimer/Pods-CalisTimer.debug.xcconfig"; sourceTree = "<group>"; };
 		D8DA0C356EF58B3B9E0E20BF /* Pods-CalisTimer-CalisTimerTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CalisTimer-CalisTimerTests.release.xcconfig"; path = "Target Support Files/Pods-CalisTimer-CalisTimerTests/Pods-CalisTimer-CalisTimerTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -106,6 +122,22 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		48B962BF944A409D9E813E1D /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				39638F6AAA134C149699E334 /* Ubuntu-Bold.ttf */,
+				4F7F1B3E79EE4ED4B080E5C7 /* Ubuntu-BoldItalic.ttf */,
+				A9FA9B0B8AFA493C98370832 /* Ubuntu-Italic.ttf */,
+				C977D8C0F6634443A6E04D2E /* Ubuntu-Light.ttf */,
+				9020AB6F072C4C31865B93F8 /* Ubuntu-LightItalic.ttf */,
+				42E0267EA96E444F90956D28 /* Ubuntu-Medium.ttf */,
+				7F37C0C11CFD4F309EC686A8 /* Ubuntu-MediumItalic.ttf */,
+				CC94488AEF1A44A5ADC4B4F4 /* Ubuntu-Regular.ttf */,
+			);
+			name = Resources;
+			path = "";
+			sourceTree = "<group>";
+		};
 		641562D588BFA9B276BB22D8 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -134,6 +166,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				641562D588BFA9B276BB22D8 /* Pods */,
+				48B962BF944A409D9E813E1D /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -245,6 +278,14 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				C28D9956C147459786D966DC /* Ubuntu-Bold.ttf in Resources */,
+				9BDC47754A8D4EEABBCAF1CA /* Ubuntu-BoldItalic.ttf in Resources */,
+				467AEE4988154810BFC553C5 /* Ubuntu-Italic.ttf in Resources */,
+				F07CA3E30C6D47ADBB4C18ED /* Ubuntu-Light.ttf in Resources */,
+				49179F493A734497A2D33194 /* Ubuntu-LightItalic.ttf in Resources */,
+				56AE0D6E9FB0489DB2BF59C9 /* Ubuntu-Medium.ttf in Resources */,
+				47EDCA193FFF4616B2751438 /* Ubuntu-MediumItalic.ttf in Resources */,
+				6475C74BEB4F411BA02F7572 /* Ubuntu-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
